@@ -1,0 +1,254 @@
+/*Portofoliu*/
+:root {
+    --heading-font-family:"Raleway".sans-serif;
+    --text-font-family:"Roboto".sans-serif;
+}
+.global-header a,
+/*logo*/
+.logo .web {
+    color:#4d5ae5;
+    font-weight: 700px;
+    font-size: 18px;
+    line-height: 21px;
+    --heading-font-family:.sans-serif;
+}
+
+.logo .studio {
+    color: #2E2F42
+    font-weight 700px;
+    font-size:18px;
+    line-height: 21px;
+    --heading-font-family:sans-serif;
+}
+/*main-nav*/
+.global-header .main-nav a,
+.global-header .main-nav a:visited {
+    color:var(--link-color)
+   
+    
+ul {
+    list-style-type: none;
+}
+studio {
+    color:#2E2F42;
+  font-weight:500px;
+  font-size:16px;
+  line-height:24px;
+}
+
+portfolio {
+    color:#2E2F42;
+  font-weight:500px;
+  font-size:16px;
+  line-height:24px;
+}
+
+contacts {
+    color:#2E2F42;
+  font-weight:500px;
+  font-size:16px;
+  line-height:24px;
+}
+
+mailto {
+    color:#434455;
+    font-weight: 400px;
+    font-size:16px;
+    line-height: 24px;
+  }
+  
+  tel {
+    color:#434455;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  /*section-contacts*/
+  section-contacts a,
+  button-all {
+    color:#4d5ae5;
+    font-weight: 500px;
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  button-website {
+    color:#fff;
+    font-weight: 500px;
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  button-app {
+    color:#fff;
+    font-weight: 500px;
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  button-design {
+    color:#fff;
+    font-weight: 500px;
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  button-marketing {
+    color:#fff;
+    font-weight: 500px;
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  /*section-card-content*/
+  section-card-content a,
+  banking-app {
+    color:#2E2F42;
+    font-weight: 500px;
+    font-size: 20px;
+    line-height: 24px;
+  }
+
+  app {
+    color :#434455;
+    font-weight:400px;
+    font-size: 16px;
+    line-height: 24px;
+   }
+
+   payment {
+    color:#2E2F42;
+    font-weight: 500px;
+    font-size: 20px;
+    line-height: 24px;
+   }
+
+   app {
+    color :#434455;
+    font-weight:400px;
+    font-size: 16px;
+    line-height: 24px;
+   }
+
+   meditation {
+    color:#2E2F42;
+    font-weight: 500px;
+    font-size: 20px;
+    line-height: 24px;
+   }
+   
+   app {
+    color :#434455;
+    font-weight:400px;
+    font-size: 16px;
+    line-height: 24px;
+   }
+
+   taxi {
+    color:#2E2F42;
+    font-weight: 500px;
+    font-size: 20px;
+    line-height: 24px;
+   }
+
+   app {
+    color :#434455;
+    font-weight:400px;
+    font-size: 16px;
+    line-height: 24px;
+   }
+
+   illustrations {
+    color:#2E2F42;
+    font-weight: 500px;
+    font-size: 20px;
+    line-height: 24px;
+   }
+
+   app {
+    color :#434455;
+    font-weight:400px;
+    font-size: 16px;
+    line-height: 24px;
+   }
+
+   courses {
+    color:#2E2F42;
+    font-weight: 500px;
+    font-size: 20px;
+    line-height: 24px;
+   }
+   app {
+    color :#434455;
+    font-weight:400px;
+    font-size: 16px;
+    line-height: 24px;
+   }
+
+   instagram {
+    color:#2E2F42;
+    font-weight: 500px;
+    font-size: 20px;
+    line-height: 24px;
+   }
+
+   app {
+    color :#434455;
+    font-weight:400px;
+    font-size: 16px;
+    line-height: 24px;
+   }
+
+   organic {
+    color:#2E2F42;
+    font-weight: 500px;
+    font-size: 20px;
+    line-height: 24px;
+   }
+
+   app {
+    color :#434455;
+    font-weight:400px;
+    font-size: 16px;
+    line-height: 24px;
+   }
+
+   coffee {
+    color:#2E2F42;
+    font-weight: 500px;
+    font-size: 20px;
+    line-height: 24px;
+   }
+
+   app {
+    color :#434455;
+    font-weight:400px;
+    font-size: 16px;
+    line-height: 24px;
+   }
+    /*section-footer*/
+   section-footer a,
+   webstudio
+   web {
+    color:#4d5ae5;
+    font-weight: 700px;
+    font-size: 18px;
+    line-height: 21px;
+    --header-font-family: sans-serif;
+  }
+  
+   webstudio 
+   studio {
+    color:#2E2F42;
+    font-weight: 700px;
+    font-size: 18px;
+    line-height: 21px;
+    --header-font-family: sans-serif;
+  }
+  /*section-info*/
+   section-info {
+    color:#f4f4fd;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 24px; }

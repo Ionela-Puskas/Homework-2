@@ -1,0 +1,225 @@
+/*Studio*/
+:root {
+--heading-font-family:"Raleway".sans-serif;
+--text-font-family:"Roboto".sans-serif;
+}
+
+.global-header {
+/*logo*/
+background-color: #fff;
+}
+
+.webstudio .web {
+  color:#4d5ae5;
+  font-weight: 700px;
+  font-size: 18px;
+  line-height: 21px;
+  --heading-font-family: sans-serif;
+}
+
+.webstudio .studio {
+    color: #2E2F42
+    font-weight 700px;
+    font-size: 18px;
+    line-height: 21px;
+    --heading-font-family: sans-serif;
+}
+/*main-nav*/
+.global-header .main-nav a,
+.global-header .main-nav a:visited {
+    color:var(--link-color)
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+.studio {
+  color:#2E2F42;
+  font-weight: 500px;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.porfolio {
+  color:#2E2F42;
+  font-weight: 500px;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.contacts {
+  color:#2E2F42;
+  font-weight: 500px;
+  font-size: 16px;
+  line-height: 24px;
+}
+.mailto {
+  color:#434455;
+  font-weight: 400px;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.tel {
+  color:#434455;
+  font-weight: 400px;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+/*section-contacts*/
+.section-contacts a,
+.solution {
+  color:#fff;
+  font-weight: 700px;
+  font-size: 56px;
+  line-height: 60px;
+  --text-font-family: sans-serif;
+}
+
+.button-service {
+  color:#4d5ae5;
+  --font-width: 169px;
+  line-height: 56px;
+  gap: 10px;
+}
+/*about-work*/
+.about-work a,
+.work-abilities {
+  color:#2E2F42;
+  font-weight: 500px;
+  font-size: 20px;
+  line-height: 24px;
+}
+.work-description {
+  color:#434455;
+  font-weight: 400px;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.work-abilities {
+  color:#2E2F42;
+  font-weight: 500px;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.work-description {
+  color:#434455;
+  font-weight: 400px;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.work-abilities {
+  color:#2E2F42;
+  font-weight: 500px;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.work-description {
+  color:#434455;
+  font-weight: 400px;
+  font-size: 16px;
+  line-height: 24px;
+}
+/*project*/
+.project a,
+.project-app {
+  color:#2E2F42;
+  font-weight: 700px;
+  font-size: 36px;
+  line-height: 40px;
+}
+/*section-about-team*/
+.section-about-team a,
+.about-team {
+  color:#2E2F42;
+  font-weight: 700px;
+  font-size: 36px;
+  line-height: 40px;
+}
+
+.colleague-name {
+  color:#2E2F42;
+  font-weight: 500px;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.profession-name {
+  color:#2E2F42;
+  font-weight: 400px;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.colleague-name {
+  color:#2E2F42;
+  font-weight: 500px;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.profession-name {
+  color:#2E2F42;
+  font-weight: 400px;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.colleague-name {
+  color:#2E2F42;
+  font-weight: 500px;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.profession-name {
+ color:#2E2F42;
+  font-weight: 400px;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.colleague-name {
+  color:#2E2F42;
+  font-weight: 500px;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.profession-name {
+  color:#2E2F42;
+  font-weight: 400px;
+  font-size: 16px;
+  line-height: 24px;
+}
+/*section-footer*/
+.section-footer a,
+.webstudio .web {
+  color:#4d5ae5;
+  font-weight: 700px;
+  font-size: 18px;
+  line-height: 21px;
+  --header-font-family:sans-serif;
+}
+
+.webstudio .studio {
+  color:#f4f4fd;
+  font-weight: 700px;
+  font-size: 18px;
+  line-height: 21px;
+  --header-font-family:sans-serif;
+}
+/*section-info*/
+.section-info {
+  color:#f4f4fd;
+  font-weight: 400px;
+  font-size: 16px;
+  line-height: 24px;
+}
