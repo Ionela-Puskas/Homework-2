@@ -24,7 +24,7 @@
 .global-header .main-nav a,
 .global-header .main-nav a:visited {
     color:var(--link-color)
-   
+  }
     
 ul {
     list-style-type: none;
